@@ -66,12 +66,12 @@ a:focus-visible, input:focus-visible, textarea:focus-visible, [tabindex]:focus-v
 
 /* Gambar sampul: simpan di folder gambar. Jika file belum ada, gradasi warna tampil. */
 
-.t1 { background: url('gambar/pf.jpeg') center/cover no-repeat, linear-gradient(135deg, #12263a, #0f8b8d); }
-.t2 { background: url('gambar/query.jpeg') center/cover no-repeat, linear-gradient(135deg, #0f8b8d, #7be0a4); }
-.t3 { background: url('gambar/erd.png') center/cover no-repeat, linear-gradient(135deg, #1f4260, #5b8bb0); }
-.t4 { background: url('gambar/sistem terintegritas.jpeg') center/cover no-repeat, linear-gradient(135deg, #0f8b8d, #7be0a4); }
-.t5 { background: url('gambar/UI-UX.jpeg') center/cover no-repeat, linear-gradient(135deg, #5b4fcf, #0f8b8d); }
-.t6 { background: url('gambar/dasarpemprograman.jpg') center/cover no-repeat, linear-gradient(135deg, #12263a, #8a3b5c); }
+.t1 { background: url('pf.jpeg') center/cover no-repeat, linear-gradient(135deg, #12263a, #0f8b8d); }
+.t2 { background: url('query.jpeg') center/cover no-repeat, linear-gradient(135deg, #0f8b8d, #7be0a4); }
+.t3 { background: url('erd.png') center/cover no-repeat, linear-gradient(135deg, #1f4260, #5b8bb0); }
+.t4 { background: url('sistem terintegritas.jpeg') center/cover no-repeat, linear-gradient(135deg, #0f8b8d, #7be0a4); }
+.t5 { background: url('UI-UX.jpeg') center/cover no-repeat, linear-gradient(135deg, #5b4fcf, #0f8b8d); }
+.t6 { background: url('dasarpemprograman.jpg') center/cover no-repeat, linear-gradient(135deg, #12263a, #8a3b5c); }
 
 .label { width: 100%; padding: 8px 12px; background: rgba(18, 38, 58, 0.65); font-size: 16px; font-weight: bold; }
 
@@ -94,7 +94,7 @@ a:focus-visible, input:focus-visible, textarea:focus-visible, [tabindex]:focus-v
   position: absolute;
   top: 0; bottom: 0; left: 0; right: 0;
   border-radius: 50%;
-  background: url('gambar/una.jpeg') center/cover no-repeat;
+  background: url('una.jpeg') center/cover no-repeat;
 }
 
 /* ---------- Media sosial ---------- */
